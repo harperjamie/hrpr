@@ -1,28 +1,26 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.4">
-  <style type="text/css">
-    p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    span.s1 {font-kerning: none}
-    span.s2 {font: 12.0px Times; text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-  </style>
-</head>
-<body>
-<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Jamie Harper</b></span></h3>
-<p class="p2"><span class="s1">An analyst who loves doing it <i>right</i> and thinks it’s a beautiful thing to do something right. I enjoy reading, travelling, tennis and wellness. I currently work in Analytics at Farfetch.</span></p>
-<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Digital Garden</b></span></h3>
-<p class="p2"><span class="s1">This website is my digital garden, a half-blog-half-wiki! Here, you'll find my ever-changing {%- include moc-list.html -%}</span></p>
-<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Now</b></span></h3>
-<p class="p3"><span class="s1">{% assign now_page = site.pages | where: "name", "now.md" | first %} {{ now_page.content | markdownify }}</span></p>
-<p class="p4"><span class="s1"></span><br></p>
-<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Contact</b></span></h3>
-<p class="p2"><span class="s1">I offer coaching on design thinking and problem solving. If you need a design collaborator for small, fun projects, feel free to <a href="mailto:hiran@hiran.in"><span class="s2">contact me</span></a>.</span></p>
-</body>
-</html>
+<!-- intro section -->
+<div class="slot-large">
+  <h3>Jamie Harper</h3> 
+  <p>An analyst who loves doing it <i>right</i> and thinks it’s a beautiful thing to do something right. 
+    I enjoy reading, travelling, tennis and wellness. I currently work in Analytics at Farfetch.</p>
+</div>
+
+<!--links-->
+<div class="slot-large">
+  <h3>Digital Garden</h3> 
+  <p>This website is my digital garden, a half-blog-half-wiki! Here, you'll find my ever-changing 
+  {%- include moc-list.html -%}</p>
+</div>
+       
+<!-- now page -->
+<div class="slot-large">
+  <h3>Now</h3> 
+  {% assign now_page = site.pages | where: "name", "now.md" | first %}
+  {{ now_page.content | markdownify }}
+</div>
+
+  <!-- contact section -->
+<div class="slot-large">
+  <h3>Contact</h3> 
+  <p>I offer coaching on design thinking and problem solving. If you need a design collaborator for small, 
+  fun projects, feel free to <a href="mailto:hiran@hiran.in">contact me</a>.</p>
