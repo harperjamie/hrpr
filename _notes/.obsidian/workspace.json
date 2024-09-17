@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Logs/04 Movies/Yves Saint Laurent.md",
+                "file": "80 Topics/Movies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Logs/04 Movies/Yves Saint Laurent.md",
+                "file": "80 Topics/Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Logs/04 Movies/Yves Saint Laurent.md",
+                "file": "80 Topics/Movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Logs/04 Movies/Yves Saint Laurent.md"
+                "file": "80 Topics/Movies.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "c22e649ada93527d",
   "lastOpenFiles": [
+    "80 Topics/AntiLibrary.md",
+    "80 Topics/Writing.md",
+    "80 Topics/Working Notes.md",
+    "80 Topics/Vault.md",
+    "80 Topics/Movies.md",
+    "20 Logs/04 Movies/Yves Saint Laurent.md",
     "20 Logs/04 Movies/True Detective 4.md",
     "20 Logs/04 Movies/The Zone of Interest.md",
     "20 Logs/04 Movies/The Regime.md",
@@ -167,12 +173,6 @@
     "20 Logs/04 Movies/Dune Part Two.md",
     "20 Logs/04 Movies/Civil War.md",
     "20 Logs/04 Movies/Challengers.md",
-    "20 Logs/04 Movies/Barry Lyndon.md",
-    "20 Logs/04 Movies/Baby Reindeer.md",
-    "20 Logs/04 Movies/American Fiction.md",
-    "20 Logs/03 AntiLibrary/Adventure History of France.md",
-    "20 Logs/03 AntiLibrary/A Passion To Win.md",
-    "20 Logs/02 Library/Confessions of a Mask.md",
-    "20 Logs/02 Library/The Secret History.md"
+    "20 Logs/04 Movies/Barry Lyndon.md"
   ]
 }
