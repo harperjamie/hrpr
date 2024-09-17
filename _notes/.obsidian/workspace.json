@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "6b48c00e6e73be5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "303e0fc65a86c6be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c22e649ada93527d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Logs/04 Movies/Yves Saint Laurent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2670db37fa8d460",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fc4b19376efd7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d87677763f1b166",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d3fb9b2d6ad4836",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f185010ee7dd9ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "606c485da75766dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6154261e0d7e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31f1f97d2b8cae7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20 Logs/04 Movies/Yves Saint Laurent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "941baf00a372ca8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20 Logs/04 Movies/Yves Saint Laurent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a29632fabac53f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14a69f6bfd1a677f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20 Logs/04 Movies/Yves Saint Laurent.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c22e649ada93527d",
+  "lastOpenFiles": [
+    "20 Logs/04 Movies/True Detective 4.md",
+    "20 Logs/04 Movies/The Zone of Interest.md",
+    "20 Logs/04 Movies/The Regime.md",
+    "20 Logs/04 Movies/The King of Comedy.md",
+    "20 Logs/04 Movies/The Killer.md",
+    "20 Logs/04 Movies/The Dropout.md",
+    "20 Logs/04 Movies/The Banshees of Inisherin.md",
+    "20 Logs/04 Movies/Taylor Swift The Eras Tour.md",
+    "20 Logs/04 Movies/Problemista.md",
+    "20 Logs/04 Movies/Poor Things.md",
+    "20 Logs/04 Movies/Mishima A Life in Four Chapters.md",
+    "20 Logs/04 Movies/Melancholia.md",
+    "20 Logs/04 Movies/Kinds of Kindness.md",
+    "20 Logs/04 Movies/Killers of the Flower Moon.md",
+    "20 Logs/04 Movies/Happy Together.md",
+    "20 Logs/04 Movies/Expats.md",
+    "20 Logs/04 Movies/Dune Part Two.md",
+    "20 Logs/04 Movies/Civil War.md",
+    "20 Logs/04 Movies/Challengers.md",
+    "20 Logs/04 Movies/Barry Lyndon.md",
+    "20 Logs/04 Movies/Baby Reindeer.md",
+    "20 Logs/04 Movies/American Fiction.md",
+    "20 Logs/03 AntiLibrary/Adventure History of France.md",
+    "20 Logs/03 AntiLibrary/A Passion To Win.md",
+    "20 Logs/02 Library/Confessions of a Mask.md",
+    "20 Logs/02 Library/The Secret History.md"
+  ]
+}

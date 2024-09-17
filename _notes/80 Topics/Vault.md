@@ -1,9 +1,9 @@
 ---
 category: MOC
-title: Writing
+title: Vault
 description: Explore my Digital Garden of evolving notes on diverse categorys, waiting to bloom over time.
-permalink: /writing
-cat-value: Writing
+permalink: /vault
+cat-value: vault
 category-order: 1
 group-by: none
 ---
