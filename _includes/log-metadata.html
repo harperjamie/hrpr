@@ -1,5 +1,5 @@
 {% assign front_matter_values = "" %}
-{% assign meta_fields = "meta-lang,meta-year,meta-people,meta-publisher" | split: "," %}
+{% assign meta_fields = "movie/series, fiction / non fiction, author, language,year" | split: "," %}
 
 {% for field in meta_fields %}
     {% if page[field] %}
@@ -22,8 +22,7 @@
 {% else %} 
 <a href="{{ category_note.permalink }}">{{ page.category }}</a>/{{ page.title }}
 {% endif %}
-{% if page.recommended == true %}✦{% endif %}
-{% if page.revisit == true %} ❷{% endif %}
+{% if page.star == true %}✦{% endif %}
 </h1>
 
 <div class="slot-small">
