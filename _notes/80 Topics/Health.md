@@ -1,9 +1,9 @@
 ---
 category: MOC
-title: Movies
+title: Health
 description: Explore my Digital Garden of evolving notes on diverse categorys, waiting to bloom over time.
-permalink: /notes
-cat-value: Notes
+permalink: /health
+cat-value: Health
 category-order: 7
 group-by: none
 ---
