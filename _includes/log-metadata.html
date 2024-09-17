@@ -1,5 +1,5 @@
 {% assign front_matter_values = "" %}
-{% assign meta_fields = "movie/series,fiction / non fiction,author,language,year" | split: "," %}
+{% assign meta_fields = "movie/series,language,fiction / non fiction,author,year" | split: "," %}
 
 {% for field in meta_fields %}
     {% if page[field] %}
