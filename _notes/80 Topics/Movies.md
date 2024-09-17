@@ -1,9 +1,9 @@
 ---
 category: MOC
 title: Movies
-description: Explore my Digital Garden of evolving notes on diverse categorys, waiting to bloom over time.
-permalink: /notes
-cat-value: Notes
-category-order: 1
-group-by: none
+description: A log of movies that I have watched.
+permalink: /movies
+cat-value: Movies
+category-order: 6
+group-by: month
 ---

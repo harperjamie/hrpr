@@ -1,9 +1,9 @@
 ---
 category: MOC
-title: Library
-description: Compilation of books I've read. The ones marked with ✦ are must-reads, and those marked with ❷ are re-reads. Check my <a href="/antilibrary">AntiLibrary</a> for the bigger list ;)
-permalink: /library
-cat-value: Library
-category-order: 2
+title: AntiLibrary
+description: Compilation of books that I want to read.
+permalink: /antilibrary
+cat-value: AntiLibrary
+category-order: 5
 group-by: year
 ---

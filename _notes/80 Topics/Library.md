@@ -1,9 +1,9 @@
 ---
 category: MOC
-title: Movies
-description: An attempt to list movies rated 2.5+ — a good watch, and yes, a challenge to keep up!
-permalink: /movies
-cat-value: Movies
+title: Library
+description: Compilation of books I've read. The ones marked with ✦ are must-reads, and those marked with ❷ are re-reads. Check my <a href="/antilibrary">AntiLibrary</a> for the bigger list ;)
+permalink: /library
+cat-value: Library
 category-order: 4
-group-by: month
+group-by: year
 ---

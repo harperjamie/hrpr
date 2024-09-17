@@ -1,9 +1,9 @@
 ---
 category: MOC
-title: WebFinds
+title: Movies
 description: Explore my Digital Garden of evolving notes on diverse categorys, waiting to bloom over time.
-permalink: /WebFinds
-cat-value: webfinds
-category-order: 1
+permalink: /notes
+cat-value: Notes
+category-order: 7
 group-by: none
 ---

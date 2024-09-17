@@ -1,9 +1,9 @@
 ---
 category: MOC
 title: Writing
-description: Explore my Digital Garden of evolving notes on diverse categorys, waiting to bloom over time.
+description: Non career writing.
 permalink: /writing
 cat-value: Writing
-category-order: 1
+category-order: 2
 group-by: none
 ---
