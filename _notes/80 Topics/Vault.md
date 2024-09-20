@@ -1,8 +1,8 @@
 ---
 category: MOC
-title: Vault
+title: Bookmarks
 description: Explore my Digital Garden of evolving notes on diverse categorys, waiting to bloom over time.
-permalink: /vault
+permalink: /bookmarks
 cat-value: vault
 category-order: 3
 group-by: none
