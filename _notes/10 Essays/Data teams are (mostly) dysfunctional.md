@@ -1,7 +1,7 @@
 ---
-title: "Data teams are (mostly) dysfunctional: where do we go from there?"
+title: "Data teams are (mostly) dysfunctional: what next?"
 date: 2024-05-17
-category: Notes
+category: Essays
 ---
 There was a time when we embodied the future. From the advent of BI tools in the 1990s to the 'big data' era spanning the late 2000s to early 2010s, and onward to the ascent of data science and cloud data platforms, the data industry had seen a continual renewing of its hype cycle, powered by the investment that comes with being on the up. A data revolution was always just around the corner, lying in wait. A revolution that would be as [exciting](https://www.linkedin.com/pulse/citizen-data-scientist-strikes-back-michele-chambers/) as it was [scary](https://www.theguardian.com/news/series/cambridge-analytica-files). We just needed the time and money to build it.
 
