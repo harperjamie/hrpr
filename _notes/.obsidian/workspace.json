@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80 Topics/AntiLibrary.md",
+                "file": "10 Notes/Data teams are (mostly) dysfunctional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80 Topics/AntiLibrary.md",
+                "file": "10 Notes/Data teams are (mostly) dysfunctional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80 Topics/AntiLibrary.md",
+                "file": "10 Notes/Data teams are (mostly) dysfunctional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80 Topics/AntiLibrary.md"
+                "file": "10 Notes/Data teams are (mostly) dysfunctional.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "c22e649ada93527d",
   "lastOpenFiles": [
+    "10 Notes/Primer on Customer Lifetime Value.md",
+    "10 Notes/Data teams are (mostly) dysfunctional.md",
+    "80 Topics/AntiLibrary.md",
     "80 Topics/Health.md",
     "80 Topics/Library.md",
     "80 Topics/Movies.md",
     "80 Topics/Vault.md",
     "80 Topics/Working Notes.md",
     "80 Topics/Writing.md",
-    "80 Topics/AntiLibrary.md",
     "20 Logs/04 Movies/Yves Saint Laurent.md",
     "20 Logs/04 Movies/True Detective 4.md",
     "20 Logs/04 Movies/The Zone of Interest.md",
@@ -171,8 +173,6 @@
     "20 Logs/04 Movies/Kinds of Kindness.md",
     "20 Logs/04 Movies/Killers of the Flower Moon.md",
     "20 Logs/04 Movies/Happy Together.md",
-    "20 Logs/04 Movies/Expats.md",
-    "20 Logs/04 Movies/Dune Part Two.md",
-    "20 Logs/04 Movies/Civil War.md"
+    "20 Logs/04 Movies/Expats.md"
   ]
 }

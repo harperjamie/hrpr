@@ -1,9 +1,8 @@
 ---
-title: 95th Percentile
+title: "Data teams are (mostly) dysfunctional: where do we go from there?"
 date: 2024-05-17
 category: Notes
 ---
-
 There was a time when we embodied the future. From the advent of BI tools in the 1990s to the 'big data' era spanning the late 2000s to early 2010s, and onward to the ascent of data science and cloud data platforms, the data industry had seen a continual renewing of its hype cycle, powered by the investment that comes with being on the up. A data revolution was always just around the corner, lying in wait. A revolution that would be as [exciting](https://www.linkedin.com/pulse/citizen-data-scientist-strikes-back-michele-chambers/) as it was [scary](https://www.theguardian.com/news/series/cambridge-analytica-files). We just needed the time and money to build it.
 
 Then interest rates went up - and patience ran out. Data teams started coming under fresh scrutiny: can you measure your impact on the balance sheet? Are you able to justify the size of your team? Why are your infrastructure and tooling costs so high? An increased need for accountability in recent years is not a unique challenge for data teams, but it has been especially difficult to navigate for us. The revolution we promised simply never arrived, at least not as we said it would.
