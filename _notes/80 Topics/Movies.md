@@ -1,5 +1,5 @@
 ---
-category:
+category: MOC
 title: Movies
 description: A log of movies that I have watched.
 permalink: /movies
