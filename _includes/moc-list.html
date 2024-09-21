@@ -6,19 +6,21 @@
 {% assign moc_notes_count = 0 %}
 
 {% for note_page in moc_notes %}
-  {% assign count = 0 %}
-  {% for note in site.notes %}
-    {% if note.category == note_page.cat-value %}
-      {% assign count = count | plus: 1 %}
+  {% if note_page.title != "Movies" %}
+    {% assign count = 0 %}
+    {% for note in site.notes %}
+      {% if note.category == note_page.cat-value %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    {% if count > 0 %}
+      {% assign moc_notes_count = moc_notes_count | plus: 1 %}
     {% endif %}
-  {% endfor %}
-  {% if count > 0 %}
-    {% assign moc_notes_count = moc_notes_count | plus: 1 %}
   {% endif %}
 {% endfor %}
 
 {% for note_page in sorted_notes %}
-  {% if note_page.category == "MOC" %}
+  {% if note_page.category == "MOC" and note_page.title != "Movies" %}
     {% assign count = 0 %}
     {% for note in site.notes %}
       {% if note.category == note_page.cat-value %}
@@ -31,9 +33,9 @@
         {% assign first_item = false %}
       {% else %}
         {% if item_index == 3 %}
-        and logs of my 
+          and logs of my
         {% elsif item_index == moc_notes_count %}
-          and 
+          and
         {% else %},{% endif %}
       {% endif %}
       <a href="{{ note_page.url }}">{{ note_page.title }}</a><sup>{{ count }}</sup>
