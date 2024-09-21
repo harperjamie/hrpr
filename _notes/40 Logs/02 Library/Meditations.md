@@ -1,7 +1,7 @@
 ---
 title: Meditations
 date: 2024-03-25
-cover: https://m.media-amazon.com/images/I/51VqQ+khB-L._AC_UF894,1000_QL80_.jpg
+cover: https://images.penguinrandomhouse.com/cover/9780141395869
 category: Library
 language: English
 year: 1559

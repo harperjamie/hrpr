@@ -1,7 +1,7 @@
 ---
 title: Confessions of a Mask
 date: 2024-01-25
-cover: https://m.media-amazon.com/images/I/913Id3ZYynL.jpg
+cover: https://upload.wikimedia.org/wikipedia/en/2/20/ConfessionsOfAMask.jpg
 category: Library
 language: English
 year: 1949
