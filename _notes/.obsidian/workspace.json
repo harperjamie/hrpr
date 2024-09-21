@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80 Topics/AntiLibrary.md",
+                "file": "40 Logs/05 Bookmarks/My link.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80 Topics/AntiLibrary.md",
+                "file": "40 Logs/05 Bookmarks/My link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80 Topics/AntiLibrary.md",
+                "file": "40 Logs/05 Bookmarks/My link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80 Topics/AntiLibrary.md"
+                "file": "40 Logs/05 Bookmarks/My link.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c22e649ada93527d",
   "lastOpenFiles": [
-    "80 Topics/Library.md",
     "80 Topics/AntiLibrary.md",
+    "80 Topics/Library.md",
     "40 Logs/02 Library/Meditations.md",
     "40 Logs/02 Library/The Secret History.md",
     "40 Logs/02 Library/Confessions of a Mask.md",
