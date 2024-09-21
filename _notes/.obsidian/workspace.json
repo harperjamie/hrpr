@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Logs/05 Bookmarks/My link.md",
+                "file": "40 Logs/05 Bookmarks/A24 The Rise of a Cultural Conglomerate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Logs/05 Bookmarks/My link.md",
+                "file": "40 Logs/05 Bookmarks/A24 The Rise of a Cultural Conglomerate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Logs/05 Bookmarks/My link.md",
+                "file": "40 Logs/05 Bookmarks/A24 The Rise of a Cultural Conglomerate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Logs/05 Bookmarks/My link.md"
+                "file": "40 Logs/05 Bookmarks/A24 The Rise of a Cultural Conglomerate.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "c22e649ada93527d",
   "lastOpenFiles": [
+    "40 Logs/05 Bookmarks/Self-Reliance, Ralph Waldo Emerson.md",
+    "40 Logs/05 Bookmarks/Data Culture as a Product.md",
+    "40 Logs/05 Bookmarks/Becoming Data Driven, From First Principles.md",
+    "40 Logs/05 Bookmarks/A24 The Rise of a Cultural Conglomerate.md",
     "80 Topics/Library.md",
     "80 Topics/Bookmarks.md",
     "80 Topics/Health.md",
     "80 Topics/Essays.md",
-    "40 Logs/05 Bookmarks/My link.md",
     "80 Topics/AntiLibrary.md",
     "40 Logs/02 Library/Meditations.md",
     "40 Logs/02 Library/The Secret History.md",
@@ -173,9 +176,6 @@
     "40 Logs/04 Movies/Yves Saint Laurent.md",
     "40 Logs/04 Movies/True Detective 4.md",
     "40 Logs/04 Movies/The Zone of Interest.md",
-    "40 Logs/04 Movies/The Regime.md",
-    "40 Logs/04 Movies/The King of Comedy.md",
-    "40 Logs/04 Movies/The Killer.md",
-    "40 Logs/04 Movies/The Dropout.md"
+    "40 Logs/04 Movies/The Regime.md"
   ]
 }
