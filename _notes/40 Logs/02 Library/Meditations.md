@@ -1,11 +1,11 @@
 ---
 title: Meditations
 date: 2024-03-25
-cover: https://upload.wikimedia.org/wikipedia/en/2/20/ConfessionsOfAMask.jpg
+cover: https://m.media-amazon.com/images/I/51VqQ+khB-L._AC_UF894,1000_QL80_.jpg
 category: Library
 language: English
-year: 2021
-author: "Marcus Aurelius (Translation: Martin Hammond)"
+year: 1559
+author: "Marcus Aurelius (T: Martin Hammond)"
 star: yes
 fiction / non fiction: Non-Fiction
 ---
