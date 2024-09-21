@@ -1,7 +1,7 @@
 ---
 category: MOC
 title: Movies
-description: A log of movies that I have watched.
+description: A log of movies and TV shows that I have seen.
 permalink: /movies
 cat-value: Movies
 category-order: 6
