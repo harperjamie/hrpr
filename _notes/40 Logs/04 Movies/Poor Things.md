@@ -1,5 +1,5 @@
 ---
-title: Problemista
+title: Poor Things
 date: 2024-03-12
 cover: https://upload.wikimedia.org/wikipedia/en/f/f3/Poor_Things_poster.jpg
 category: Movies
