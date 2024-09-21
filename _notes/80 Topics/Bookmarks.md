@@ -5,5 +5,5 @@ description: Explore my Digital Garden of evolving notes on diverse categorys, w
 permalink: /bookmarks
 cat-value: Bookmarks
 category-order: 3
-group-by: none
+group-by: month
 ---
