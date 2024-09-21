@@ -1,6 +1,6 @@
 ---
-title: My link
-date: 2024-04-01
-meta-url: https://amzn.to/4eJfhQb
+title: Data Culture as a Product
+date: 2024-09-01
+meta-url: https://www.youtube.com/watch?v=cylAr9oUluI
 category: Bookmarks
 ---
