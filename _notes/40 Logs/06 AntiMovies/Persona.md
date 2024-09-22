@@ -2,7 +2,7 @@
 title: Persona
 date: 2024-06-01
 cover: 
-category: Movies
+category: AntiMovies
 year: 1966
 star: no
 movie/series: Movie
