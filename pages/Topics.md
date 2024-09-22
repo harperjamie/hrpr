@@ -8,7 +8,7 @@ permalink: /topics
 {% assign sorted_notes = site.notes | sort: 'category-order' %}
 {% assign first_item = true %}
   {% for note_page in sorted_notes %}
-    {% if note_page.category == "MOC" %}
+    {% if note_page.category == "MOC" and note_page.title != "Movies" and note_page.title != "AntiMovies" and note_page.title != "Health" %}
       {% assign count = 0 %}
       {% for note in site.notes %}
         {% if note.category == note_page.cat-value %}
