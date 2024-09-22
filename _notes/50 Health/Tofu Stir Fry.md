@@ -1,3 +1,12 @@
+---
+title: Tofu Stir Fry
+date: 2024-04-11
+cover: 
+category: Health
+time: 20m
+cuisine: China
+---
+
 ### Ingredients
 - 280g Tofu
 - 3 tsp Soy Sauce
@@ -6,6 +15,7 @@
 - 1 tsp Minced Ginger
 - Handfuls of baby spinach
 - 150g jasmine rice
+- 
 ### Steps
 1. Cube the tofu.
 2. Oil the pan and add the tofu + 1 tbsp soy sauce. Heat on medium high heat for 8-10 minutes.
