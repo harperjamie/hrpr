@@ -1,3 +1,12 @@
+---
+title: Thai Green Chicken Curry
+date: 2024-04-11
+cover: 
+category: Health
+time: 20m
+cuisine: Thailand
+---
+
 ### Ingredients
 - 150g jasmine rice
 - 300ml Coconut Milk
