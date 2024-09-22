@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6b48c00e6e73be5d",
+    "id": "243b0ac55bb368d0",
     "type": "split",
     "children": [
       {
-        "id": "303e0fc65a86c6be",
+        "id": "296e37e989cd0c33",
         "type": "tabs",
         "children": [
           {
-            "id": "c22e649ada93527d",
+            "id": "d63ca2b2868715e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Logs/06 AntiMovies/A Journey Through French Cinema.md",
+                "file": "Topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f2670db37fa8d460",
+    "id": "300e2d778d162d1f",
     "type": "split",
     "children": [
       {
-        "id": "3fc4b19376efd7c8",
+        "id": "03b77c41987c9dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "9d87677763f1b166",
+            "id": "58a1ae98726eab49",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "2d3fb9b2d6ad4836",
+            "id": "3dd2d12cd6eccad3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "5f185010ee7dd9ff",
+            "id": "5b958818334f3f9c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "606c485da75766dd",
+    "id": "a12a798796a0f396",
     "type": "split",
     "children": [
       {
-        "id": "5d6154261e0d7e8f",
+        "id": "588713464625cf71",
         "type": "tabs",
         "children": [
           {
-            "id": "31f1f97d2b8cae7c",
+            "id": "57d0f231fd782229",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Logs/06 AntiMovies/A Journey Through French Cinema.md",
+                "file": "Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "941baf00a372ca8f",
+            "id": "d77afa65b62385c5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Logs/06 AntiMovies/A Journey Through French Cinema.md",
+                "file": "Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3a29632fabac53f9",
+            "id": "f576f2353d0d1e64",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "14a69f6bfd1a677f",
+            "id": "81aebca4715b40a8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Logs/06 AntiMovies/A Journey Through French Cinema.md"
+                "file": "Topics.md"
               }
             }
           }
@@ -146,37 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c22e649ada93527d",
+  "active": "d63ca2b2868715e0",
   "lastOpenFiles": [
-    "40 Logs/06 AntiMovies/A Matter of Life and Death.md",
-    "40 Logs/06 AntiMovies/Babygirl.md",
-    "40 Logs/06 AntiMovies/Before Midnight.md",
-    "40 Logs/06 AntiMovies/Before Sunset.md",
-    "40 Logs/06 AntiMovies/Breathless.md",
-    "40 Logs/06 AntiMovies/Decision to Leave.md",
-    "40 Logs/06 AntiMovies/Drive my Car.md",
-    "40 Logs/06 AntiMovies/Eternal Sunshine of the Spotless Mind.md",
-    "40 Logs/06 AntiMovies/Fallen Angels.md",
-    "40 Logs/06 AntiMovies/Farewell my Concubine.md",
-    "40 Logs/06 AntiMovies/First Reformed.md",
-    "40 Logs/06 AntiMovies/Queer.md",
-    "40 Logs/06 AntiMovies/The Holdovers.md",
-    "40 Logs/06 AntiMovies/Yi Yi.md",
-    "40 Logs/06 AntiMovies/Weekend.md",
-    "40 Logs/06 AntiMovies/The White Lotus 3.md",
-    "40 Logs/06 AntiMovies/Prisoners.md",
-    "40 Logs/06 AntiMovies/Petite Maman.md",
-    "40 Logs/06 AntiMovies/Persona.md",
-    "40 Logs/06 AntiMovies/Perfect Blue.md",
-    "40 Logs/06 AntiMovies/Patrick Melrose.md",
-    "40 Logs/06 AntiMovies/Mirror.md",
-    "40 Logs/06 AntiMovies/Millennium Mambo.md",
-    "40 Logs/06 AntiMovies/Memories of Murder.md",
-    "40 Logs/06 AntiMovies/Megalopolis.md",
-    "40 Logs/06 AntiMovies/May December.md",
-    "40 Logs/06 AntiMovies",
-    "40 Logs/05 Bookmarks",
-    "10 Essays",
-    "untitled folder"
+    "Now.md",
+    "Index.md",
+    "Credits.md",
+    "404.md"
   ]
 }
